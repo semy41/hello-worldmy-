@@ -1,5 +1,4 @@
 # hello-worldmy-
-my new repository
 hi people!
 
 I want tell u guys about a great site called GitHub.
